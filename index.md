@@ -5,7 +5,7 @@
 # Maryam <u>Ghaffari Saadat</u>
 ## Contact Information
 - Email: firstname.surname@bristol.ac.uk
-- LinkedIn: https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/
+- LinkedIn: [https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/](https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/)
 
 ## Summary
 A brief summary of your career and skills.
