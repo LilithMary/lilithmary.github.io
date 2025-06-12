@@ -1,7 +1,4 @@
----
-layout: home
-title: Home
----
+
 
 <img src="/MGS.png" alt="Profile Photo" style="width: 150px; border-radius: 50%;">
 
