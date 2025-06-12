@@ -5,11 +5,10 @@ title: Home
 
 <img src="/MGS.png" alt="Profile Photo" style="width: 150px; border-radius: 50%;">
 
-# Your Name
+# Maryam <u>Ghaffari Saadat</u>
 ## Contact Information
-- Email: your.email@example.com
-- Phone: (123) 456-7890
-- LinkedIn: linkedin.com/in/yourprofile
+- Email: firstname.surname@bristol.ac.uk
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/)
 
 ## Summary
 A brief summary of your career and skills.
