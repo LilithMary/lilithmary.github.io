@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
--- ![Profile Photo](/MGS.png)
 <img src="/MGS.png" alt="Profile Photo" style="width: 150px; border-radius: 50%;">
 
 # Your Name
